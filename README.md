@@ -4,21 +4,20 @@ This project involved designing and developing an interactive Sales Performance 
 
 Key features of the dashboard include:
 
-hashtag#Total Sales, Profit, and Quantity Sold over time
+Total Sales, Profit, and Quantity Sold over time
 
-hashtag#Monthly, Quarterly, and Yearly comparisons
+Monthly, Quarterly, and Yearly comparisons
 
-hashtag#Top-performing Products and Salespersons
+Top-performing Products and Salespersons
 
-hashtag#Sales by Region, Customer Segment, and Product Category
+Sales by Region, Customer Segment, and Product Category
 
-hashtag#Target vs. Actual Sales tracking
+Target vs. Actual Sales tracking
 
-hashtag#Drill-down functionality for detailed exploration
+Drill-down functionality for detailed exploration
 
-hashtag#Slicers for filtering by date, region, category, and sales rep
-
-hashtag#Power BI’s data modeling and hashtag#DAX functions were used to create calculated measures and KPIs. The visuals were designed for clarity and executive-level reporting, enabling stakeholders to quickly identify areas of high performance and those needing attention.
+Slicers for filtering by date, region, category, and sales rep
+Power BI’s data modeling and hashtag#DAX functions were used to create calculated measures and KPIs. The visuals were designed for clarity and executive-level reporting, enabling stakeholders to quickly identify areas of high performance and those needing attention.
 
 
 🧩 Key Components:
